@@ -12,7 +12,7 @@ Aws Cloud Account Step
 8:Go to IAM user and login that 
 9:Try to Access that Permission
 
-Q2:Ec2 instance creation
+2:Ec2 instance creation
 1:Sign in to AWS Console
 2: Navigate the EC2 instance
 
@@ -21,7 +21,9 @@ Q2:Ec2 instance creation
 5:Go To the Security group and Go into Inbound Rules
 6:Then click on edit Inbound Rules
 7:Click on HTTP add IPv4 address and port 80
-8:In terminal sudo apt update
+
+4: create a postman account 
+1.Copy a link from method and post it into postman and create a get data 
 
 ![q1_2 1](https://github.com/user-attachments/assets/f41de978-db78-43e2-aaf4-41c8e530ebba)
 ![q1 1](https://github.com/user-attachments/assets/826b1e47-94af-4abc-bc99-79051a7e599a)
