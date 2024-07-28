@@ -1,0 +1,15 @@
+URL:
+https://h7yxahwauk.execute-api.ap-south-1.amazonaws.com/diot/devices
+
+https://ltdfbkx26b.execute-api.ap-northeast-1.amazonaws.com/devices
+
+Method: Post
+
+{
+    "device_id" : 1,
+    "device_type" : "RPI",
+    "sensor_data" : {
+        "temperature" : 45,
+        "humidity" : 85
+    }
+}
